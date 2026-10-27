@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gift Up! is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://giftup.com/
+Gift Up! provides a simple platform for businesses to sell digital and physical gift cards online. It offers a fully automated checkout, integrates with any website or e‑commerce platform, supports multiple currencies, and handles payment processing, delivery, and redemption without monthly fees. Users can customize card designs, set custom values, and manage sales through a web dashboard or mobile app.
+
+**Areas:** Company · Payments · E-commerce · Gift Cards · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://giftup.com/)
+- [Documentation](https://developer.giftup.com/)
+- [Pricing](https://www.giftup.com/pricing)
+- [Support](https://help.giftup.com/)
+- [Terms of service](https://www.giftup.com/terms-conditions)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gift-up/](https://apis.io/providers/gift-up/).
